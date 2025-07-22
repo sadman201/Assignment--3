@@ -9,5 +9,6 @@ function countVowels(str) {
     return count;
 }
 
-console.log(countVowels("sadman")); // Output: 2
+let str = "Bangladesh";
+console.log(countVowels(str)); 
 
